@@ -2,7 +2,7 @@
 
 This project was created and maintained by Dorina Mihai with [Angular CLI], HTML5, CSS3, Bootstrap, Material Design UI and Node.js.
 
-![Main page](http://www.nootropics.dorinamihai.tech/img/main.png)
+![Main page](http://nootropics.dorinamihai.tech/assets/main.png)
 
 
 ## Development server

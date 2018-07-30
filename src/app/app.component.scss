@@ -1,0 +1,84 @@
+/******MAIN*******/
+
+.intro-2 {
+    background: url("../assets/mainpic.jpg")no-repeat center center;
+    background-size: cover;
+}
+.view {
+    height: 100vh !important;
+}
+.btn .fa {
+    margin-left: 3px;
+}
+
+h5 {
+    line-height: 1.7;
+}
+
+
+@media (max-width: 450px) {
+    .margins {
+        margin-right: 1rem;
+        margin-left: 1rem;
+    }
+}
+@media (max-width: 740px) {
+    .full-height,
+    .full-height body,
+    .full-height header,
+    .full-height header .view {
+        height: 1020px;
+    }
+}
+
+p{
+    color:#212529;
+}
+
+li {
+    list-style-type: none;
+}
+
+/*****Stats******/
+
+.stats{
+    background-color:#616161;
+    padding:20px;
+}
+
+/*****Prices*****/
+
+.prices{
+    background-color:#616161;
+    padding-bottom:100px;
+}
+
+
+/*****Contact*****/
+
+.contact{
+    padding-bottom:50px;
+}
+
+
+/*****Footer*****/
+
+footer{
+    background-color:#616161;
+}
+
+
+/*****MAP iframe*****/
+
+iframe{
+    max-width:100%;
+}
+
+
+/*****Products*****/
+
+@media (max-width: 450px) {
+    .title-size{
+        font-size:18px;
+    }
+}
